@@ -1,0 +1,7 @@
+c:\users\israe\source\repos\TableroPrueba\TableroPrueba\bin\Debug\TableroPrueba.exe.config
+c:\users\israe\source\repos\TableroPrueba\TableroPrueba\bin\Debug\TableroPrueba.exe
+c:\users\israe\source\repos\TableroPrueba\TableroPrueba\bin\Debug\TableroPrueba.pdb
+c:\users\israe\source\repos\TableroPrueba\TableroPrueba\obj\Debug\TableroPrueba.csprojResolveAssemblyReference.cache
+c:\users\israe\source\repos\TableroPrueba\TableroPrueba\obj\Debug\TableroPrueba.csproj.CoreCompileInputs.cache
+c:\users\israe\source\repos\TableroPrueba\TableroPrueba\obj\Debug\TableroPrueba.exe
+c:\users\israe\source\repos\TableroPrueba\TableroPrueba\obj\Debug\TableroPrueba.pdb
